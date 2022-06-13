@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que nos iba a poner 20, es el mejor profesor de la UPC')
+    alert('Sabia que nos iba a poner 20 por el trabajo final, es el mejor profesor de la UPC y sabe sobre musicas good')
 });
 
 const noBtn = document.querySelector('#noBtn');
