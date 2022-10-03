@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que nos iba a poner 20 por el trabajo final, es el mejor profesor de la UPC ,lo queremos más que a nuestras ex')
+    alert('Sabia que nos iba a poner 20 por el trabajo final, es la mejor profesora de la UPC ,lo queremos más que a nuestras ex')
 });
 
 const noBtn = document.querySelector('#noBtn');
